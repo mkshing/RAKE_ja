@@ -1,0 +1,2 @@
+urllib
+mecab-python=='0.996'
